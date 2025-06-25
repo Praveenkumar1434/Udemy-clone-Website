@@ -85,6 +85,8 @@ body{
     background-color: white;
     color: black;
     border: solid black 1px;
+    transition: 1s;
+    cursor: pointer;
 }
 .sale-image img{
     width: 100%;
